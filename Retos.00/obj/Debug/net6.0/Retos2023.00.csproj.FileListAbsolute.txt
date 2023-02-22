@@ -1,0 +1,15 @@
+C:\Repos\Personal\Retos2023\Retos.00\bin\Debug\net6.0\Retos2023.00.exe
+C:\Repos\Personal\Retos2023\Retos.00\bin\Debug\net6.0\Retos2023.00.deps.json
+C:\Repos\Personal\Retos2023\Retos.00\bin\Debug\net6.0\Retos2023.00.runtimeconfig.json
+C:\Repos\Personal\Retos2023\Retos.00\bin\Debug\net6.0\Retos2023.00.dll
+C:\Repos\Personal\Retos2023\Retos.00\bin\Debug\net6.0\Retos2023.00.pdb
+C:\Repos\Personal\Retos2023\Retos.00\obj\Debug\net6.0\Retos2023.00.csproj.AssemblyReference.cache
+C:\Repos\Personal\Retos2023\Retos.00\obj\Debug\net6.0\Retos2023.00.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Personal\Retos2023\Retos.00\obj\Debug\net6.0\Retos2023.00.AssemblyInfoInputs.cache
+C:\Repos\Personal\Retos2023\Retos.00\obj\Debug\net6.0\Retos2023.00.AssemblyInfo.cs
+C:\Repos\Personal\Retos2023\Retos.00\obj\Debug\net6.0\Retos2023.00.csproj.CoreCompileInputs.cache
+C:\Repos\Personal\Retos2023\Retos.00\obj\Debug\net6.0\Retos2023.00.dll
+C:\Repos\Personal\Retos2023\Retos.00\obj\Debug\net6.0\refint\Retos2023.00.dll
+C:\Repos\Personal\Retos2023\Retos.00\obj\Debug\net6.0\Retos2023.00.pdb
+C:\Repos\Personal\Retos2023\Retos.00\obj\Debug\net6.0\Retos2023.00.genruntimeconfig.cache
+C:\Repos\Personal\Retos2023\Retos.00\obj\Debug\net6.0\ref\Retos2023.00.dll
